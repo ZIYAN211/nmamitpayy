@@ -1,0 +1,95 @@
+ .u-section-1 {
+  background-image: linear-gradient(white, #a9eaf7);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 926px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 50px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 572px;
+  --thumb-color: #a37fdf;
+  --thumb-hover-color: #bda3e9;
+  --track-color: #c0c0c0;
+  --track-active-color: #a37fdf;
+  width: 624px;
+  margin: 74px auto 60px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-1 {
+  width: 0;
+  font-weight: 700;
+}
+
+.u-section-1 .u-label-2 {
+  width: 0;
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  width: 0;
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  width: 0;
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-5 {
+  width: 0;
+  font-weight: 700;
+}
+
+.u-section-1 .u-label-6 {
+  width: 0;
+  font-weight: 700;
+}
+
+.u-section-1 .u-label-7 {
+  width: 0;
+  font-weight: 700;
+}
+
+.u-section-1 .u-label-8 {
+  width: 0;
+  font-weight: 700;
+}
+
+.u-section-1 .u-btn-1 {
+  padding-top: 8px;
+  padding-bottom: 9px;
+  display: inline-block;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
